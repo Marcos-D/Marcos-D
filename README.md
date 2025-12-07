@@ -16,9 +16,6 @@
   <a href="https://marcos-d.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-   <a href="https://leetcode.com/marcoosss/">
-    <img src="https://leetcard.jacoblin.cool/marcoosss?theme=dark&ext=heatmap" height="180">
-  </a>
 </p>
 
 ---
@@ -62,6 +59,13 @@ When I’m not coding, I’m usually: Playing Valorant, At a soccer scrimmage, o
 </p>
 
 ---
+
+## LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/marcoosss/">
+    <img src="https://leetcard.jacoblin.cool/marcoosss?theme=dark&ext=heatmap" height="180">
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 Last year, I listened to **over 200,000 minutes** of music on Spotify.  
