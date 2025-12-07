@@ -16,6 +16,9 @@
   <a href="https://marcos-d.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+   <a href="https://leetcode.com/marcoosss/">
+    <img src="https://leetcard.jacoblin.cool/marcoosss?theme=dark&ext=heatmap" height="180">
+  </a>
 </p>
 
 ---
